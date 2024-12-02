@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jogo de terror</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="chamada">
+        <div class="chamada-texto">
+            <header>Os jogadores famosos jogando poppy playtime</header>
+            <h1>PRESO EM UMA FÁBRICA ABANDONADA DE BRINQUEDOS! - Poppy Playtime</h1>
+        </div>
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3yMIbeYmI98?si=zHzJfLcA426353jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+    <section class="categoria">
+        <h2>mais videos</h2>
+        <div class="categoria-videos">
+            <a href="https://www.youtube.com/watch?v=PkoCMJRANIM">
+                <img src="https://img.youtube.com/vi/PkoCMJRANIM/maxresdefault.jpg">
+            </a>
+            <a href="https://www.youtube.com/watch?v=oRCM5Byh3rA">
+                <img src="https://img.youtube.com/vi/oRCM5Byh3rA/maxresdefault.jpg">
+            </a>
+            <a href="https://www.youtube.com/watch?v=HlUa0ZkAjiU">
+                <img src="https://img.youtube.com/vi/HlUa0ZkAjiU/maxresdefault.jpg">
+            </a>
+            <a href="https://www.youtube.com/watch?v=-6yo8FZKNoU">
+                <img src="https://img.youtube.com/vi/-6yo8FZKNoU/maxresdefault.jpg">
+            </a>
+            <a href="https://www.youtube.com/watch?v=emCgXvTAkhU">
+                <img src="https://img.youtube.com/vi/emCgXvTAkhU/maxresdefault.jpg">
+            </a>
+            <a href="https://www.youtube.com/watch?v=0oTfnmHVe-Y">
+                <img src="https://img.youtube.com/vi/0oTfnmHVe-Y/maxresdefault.jpg">
+            </a>
+
+        </div>
+    </section>
+
+</body>
+</html>
